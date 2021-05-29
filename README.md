@@ -4,10 +4,10 @@
 
 To run client open the file : 
 
-### `runclient.bat`
+### `runserver.bat`
 
 ## Run Frontend
 
 To run server open the file : 
 
-### `runserver.bat`
+### `runclient.bat`
