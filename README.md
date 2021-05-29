@@ -2,12 +2,12 @@
 
 ## Run Backend
 
-To run client open the file : 
+To run server open the file :
 
 ### `runserver.bat`
 
 ## Run Frontend
 
-To run server open the file : 
+ To run client open the file : 
 
 ### `runclient.bat`
