@@ -1,4 +1,4 @@
-# Run App instruction
+# Instructions for running the App
 
 ## Run Backend
 
