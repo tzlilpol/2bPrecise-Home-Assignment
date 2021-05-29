@@ -1,4 +1,4 @@
 cd ./frontend
-npm install
+CALL npm install
 npm start
 cmd
